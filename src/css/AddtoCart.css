@@ -1,0 +1,53 @@
+.add2cart{
+    position: relative;
+    top:85px;
+    display: flex;
+    justify-content: space-between;
+}
+.product-name{
+    color: #000;
+    font-size: 26px;
+    line-height: 120%;
+    font-weight: 500;
+}
+.pro-des{
+    color: #000;
+    font-size: 16px;
+    line-height: 120%;
+    font-weight: 400;
+}
+.star{
+    display: flex;
+    justify-content: space-between;
+}
+.right-section{
+    display: flex;
+    align-items: center;
+}
+.numberDiv{
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+}
+.left-section{
+margin-left:3%
+}
+.right-section{
+margin-right:3%;
+}
+.innerNoDiv{
+    width: 41.33px;
+    height: 53px;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dropdown-button{
+    padding: 15px;
+    border: 1px solid #000;
+    
+}
+.dropdown-menu{
+    background-color: #dddddd;
+}

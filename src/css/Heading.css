@@ -1,0 +1,41 @@
+.firstHeading{
+    position: relative;
+    top: 12vw;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.secondHeading{
+    position: relative; 
+    top:30vw;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+ 
+.inner-text{
+    width: 60%;
+    margin-top:2%;
+    }
+.heading1{
+    padding:2%;
+text-align: center;
+font-size: 2.25rem;
+    line-height: 1.2rem;
+    font-weight: 600;
+}
+.heading2{
+text-align: center;
+font-size: 6.2rem;
+    line-height: 1.05;
+    font-weight: 700;
+    letter-spacing: -0.01rem;
+}
+.paragraph{
+    padding:2%;
+    
+text-align: center;
+font-weight: 500;
+font-size: 1.45em;
+    line-height: 1.4em;
+}

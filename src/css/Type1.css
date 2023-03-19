@@ -1,0 +1,60 @@
+.desctype1{
+    width: 100%;
+    height: 46.95%;
+    display: flex;
+    gap:5%;
+}
+.product-description1{
+    width: 50%;
+    margin-left: 2%;
+    margin-top: 5%;
+}
+.product-description2{
+    width: 50%;
+    margin-top: 5%;
+}
+
+.top{
+    margin:2%;
+    color: rgba(58, 58, 58, 0.5);
+    font-size: 10px;
+    line-height: 120%;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+}
+.middle{
+    color: #d83419;
+    font-size: 40px;
+    line-height: 120%;
+    font-weight: 700;
+    margin:2%;
+}
+.buttom{
+    /* width: 600px; */
+    color: #3a3a3a;
+    font-size: 30px;
+    line-height: 120%;
+    font-weight: 400;
+    margin:2%;
+}
+.gif-container{
+    width: 50%;
+    margin-right: 2%;
+}
+.gif-container2{
+    margin-left: 2%;
+    margin-top:5%;
+    width: 50%;
+}
+.gif{
+    width: 100%;
+    height: 100%;
+    border-radius: 14px;
+    object-fit: cover;
+}
+.gif2{
+    width: 85%;
+    height: 85%;
+    border-radius: 14px;
+}
